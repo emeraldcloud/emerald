@@ -1,5 +1,5 @@
 # emerald
-The ergonomical and blazing fast ephemeral data store made for caches, queues, and scheduled tasks, with durability and clustering build-in. Written in Rust 🦀.
+The ergonomical and blazing fast ephemeral data store made for caches, queues, and scheduled tasks, with durability and clustering built-in. Written in Rust 🦀.
 
 ## Goals
 - **Fast.** emerald should be competitive when compared to other in-memory data stores.
